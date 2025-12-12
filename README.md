@@ -24,9 +24,7 @@ codes/
 │
 
 └── codes_for_results/
-
     ├── bayarea_vmt_analysis.ipynb
-
     └── bayarea_vmt_analysis.py
 * Data cleaning scripts convert raw NHTS data into a single cleaned dataset.
 * Analysis scripts implement the policy scenarios, estimate behavioral response, and compute equity metrics.
