@@ -5,7 +5,7 @@ This project evaluates the equity and distributional impacts of replacing Califo
 
 Data
 The analysis uses household-level data from the 2017 National Household Travel Survey (NHTS). Vehicle fuel economy is estimated using federal fuel-economy standards due to missing MPG values in the survey. Only California state fuel taxes are replaced in the VMT scenarios. Federal fuel taxes remain constant across all scenarios. 
-Data Structure:
+Data are stored in the data/ folder in this structure:
 data/
 
 ├── raw_data/ # Original NHTS survey files and fuel economy standards
@@ -17,7 +17,7 @@ data/
     
 Code
 All code is fully reproducible and divided into data preparation and policy analysis. 
-Code Structure:
+All codes are stored in the codes/ folder:
 codes/
 
 ├── codes_for_data_cleaning/
@@ -50,7 +50,8 @@ Equity is evaluated using the Gini Index, calculated for:
 Gini values are used to compare inequality under the fuel tax and VMT fee scenarios.
 
 Results
-Final outputs are stored in the results/ folder:
+
+Final outputs are stored in the results/  folder in this structure:
 results/
 ├── scenario1_fuel_tax.csv
 ├── scenario2_static_vmt.csv
@@ -76,6 +77,7 @@ Limitations
 * Results are based on 2017 NHTS data
 
 Acknowledgments
+
 This project was completed for an academic course under the guidance of Professor Manxi Wu (UC Berkeley). ChatGPT 4.0 was used to assist with code debugging, workflow structuring, and writing clarity.
 
 Citation
