@@ -5,14 +5,10 @@ This project evaluates the equity and distributional impacts of replacing Califo
 
 Data
 The analysis uses household-level data from the 2017 National Household Travel Survey (NHTS). Vehicle fuel economy is estimated using federal fuel-economy standards due to missing MPG values in the survey. Only California state fuel taxes are replaced in the VMT scenarios. Federal fuel taxes remain constant across all scenarios. Data Structure:
-
-data/
-
-├── raw_data/ # Original NHTS survey files and fuel economy standards
-
-└── cleaned_data/ # Final analysis-ready dataset
-
-    └── df_cleanest+mpg.csv
+                     data/
+                       raw_data/  # Original NHTS survey files and fuel economy standards
+                       cleaned_data/  # Final analysis-ready dataset
+                               df_cleanest+mpg.csv
 
 Code
 All code is fully reproducible and divided into data preparation and policy analysis. Code Structure:
