@@ -79,4 +79,4 @@ Acknowledgments
 This project was completed for an academic course under the guidance of Professor Manxi Wu (UC Berkeley). ChatGPT 4.0 was used to assist with code debugging, workflow structuring, and writing clarity.
 
 Citation
-Equity Impacts of a Vehicle Miles Traveled (VMT) Fee in Bay Area Cities
+Shahriar, M. S., Luengjitvatana, P., Baig, M. S. A., Albreiki, S., & Luther, A. (2025). Equity impacts of vehicle miles traveled (VMT) fee in Bay Area cities (Final project report for CEE 252, Systems Analysis in Transportation). University of California, Berkeley. https://github.com/i-am-Shuvro/Equity-Impacts-of-Vehicle-Miles-Traveled-Fee-in-Bay-Area-Cities
