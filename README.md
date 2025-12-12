@@ -22,8 +22,6 @@ codes/
 
 │   └── data_cleaning.py
 
-│
-
 └── codes_for_results/
 
     ├── bayarea_vmt_analysis.ipynb  
