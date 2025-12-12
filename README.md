@@ -12,13 +12,21 @@ data/
 
 Code
 All code is fully reproducible and divided into data preparation and policy analysis. Code Structure:
+
 codes/
+
 ├── codes_for_data_cleaning/
+
 │   ├── data_cleaning.ipynb
+
 │   └── data_cleaning.py
+
 │
+
 └── codes_for_results/
+
     ├── bayarea_vmt_analysis.ipynb
+
     └── bayarea_vmt_analysis.py
 * Data cleaning scripts convert raw NHTS data into a single cleaned dataset.
 * Analysis scripts implement the policy scenarios, estimate behavioral response, and compute equity metrics.
